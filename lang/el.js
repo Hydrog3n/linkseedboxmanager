@@ -1,3 +1,3 @@
-﻿theUILang.linkcakebox = "Gerer votre seedbox avec Seedbox-Manager";
+﻿theUILang.linkseedboxmanager = "Gérer votre seedbox avec Seedbox-Manager";
 
 thePlugins.get("linkseedboxmanager").langLoaded();
