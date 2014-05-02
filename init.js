@@ -2,7 +2,6 @@
 
 plugin.loadCSS("linkseedboxmanager");
 
-
 plugin.onLangLoaded = function()
 {
     this.addButtonToToolbar("linkseedboxmanager", theUILang.linkseedboxmanager, plugin.optionlink+"('" + plugin.url + "')", "help");
